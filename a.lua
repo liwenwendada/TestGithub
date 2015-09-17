@@ -8,7 +8,11 @@ a="qwer"
 print(a)
 --]]
 
+--测试Github，上传功能
 --哈哈哈哈哈
+--嘻嘻嘻嘻嘻
+
+
 --测试类型
 --[[
 print(type("hello")) --string
