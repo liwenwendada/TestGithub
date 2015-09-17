@@ -8,6 +8,7 @@ a="qwer"
 print(a)
 --]]
 
+--哈哈哈哈哈
 --测试类型
 --[[
 print(type("hello")) --string
