@@ -3,7 +3,7 @@ local game={}
 game.play=function()
 print("Play")
 end
-
+--别人修改了一些东西，我需要更新
 game.stop=function ()
 	print("stop")
 end
